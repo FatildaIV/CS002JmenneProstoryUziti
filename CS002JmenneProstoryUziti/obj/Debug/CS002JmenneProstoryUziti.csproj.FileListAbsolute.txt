@@ -1,0 +1,5 @@
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS002JmenneProstoryUziti\CS002JmenneProstoryUziti\bin\Debug\CS002JmenneProstoryUziti.exe.config
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS002JmenneProstoryUziti\CS002JmenneProstoryUziti\bin\Debug\CS002JmenneProstoryUziti.exe
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS002JmenneProstoryUziti\CS002JmenneProstoryUziti\bin\Debug\CS002JmenneProstoryUziti.pdb
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS002JmenneProstoryUziti\CS002JmenneProstoryUziti\obj\Debug\CS002JmenneProstoryUziti.exe
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS002JmenneProstoryUziti\CS002JmenneProstoryUziti\obj\Debug\CS002JmenneProstoryUziti.pdb
